@@ -72,5 +72,6 @@ Key Learnings:
 - [LinkedIn](https://www.linkedin.com/in/dipon778)
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects!
-
+<!---
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipon778&show_icons=true&hide=contribs)](https://github.com/dipon778)
+---!>
