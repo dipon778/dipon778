@@ -6,7 +6,6 @@ I'm a passionate DevOps engineer with a focus on automating and streamlining the
 
 - 🔭 I’m currently working on GKE for deploying SpringBoot application.
 - 🌱 I’m continuously learning and exploring new tools and technologies in the DevOps landscape.
-- 💬 Ask me about automation, CI/CD, containerization, and infrastructure as code.
 
 ## Tech Stack
 
