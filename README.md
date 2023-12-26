@@ -25,8 +25,7 @@ I'm a passionate DevOps engineer with a focus on automating and streamlining the
 - **Cloud Platforms:** AWS, Google Cloud
 - **Monitoring & Logging:** Fluent-Bit, Prometheus, Grafana, ELK Stack
 
-
-### Most Recent Work: Data Mirgation 
+### Most Recent Work: Data Mirgation
 
 Challenge: Facilitating continuous data migration from Snowflake (data lake) to BigQuery (data warehouse) and MySQL.It was quite challenging for me.
 
@@ -34,35 +33,37 @@ Solution: Leveraging SQL within Snowflake and Cloud Functions for seamless data 
 
 Key Technologies:
 
-    Snowflake
-    BigQuery
-    MySQL
-    Cloud Functions
+- Snowflake
+- BigQuery
+- MySQL
+- Cloud Functions
 
-Steps:
+**Steps:**
 
-    SQL in Snowflake:
-        Crafted efficient SQL queries to extract and transform data within Snowflake.
-        Optimized queries for performance and resource utilization.
+- **SQL in Snowflake:**
+    - Crafted efficient SQL queries to extract and transform data within Snowflake.
+    - Optimized queries for performance and resource utilization.
 
-    Cloud Functions:
-        Developed robust Cloud Functions to orchestrate data movement.
-        Handled data transfer, validation, and error handling gracefully.
+- **Cloud Functions:**
+    - Developed robust Cloud Functions to orchestrate data movement.
+    - Handled data transfer, validation, and error handling gracefully.
 
-    BigQuery Integration:
-        Seamlessly integrated data into BigQuery, leveraging its scalability and analytics capabilities.
-        Employed appropriate loading methods for optimal performance and consistency.
+- **BigQuery Integration:**
+    - Seamlessly integrated data into BigQuery, leveraging its scalability and analytics capabilities.
+    - Employed appropriate loading methods for optimal performance and consistency.
 
-    MySQL Synchronization:
-        Established real-time data synchronization with MySQL. Maintained data integrity and consistency across platforms.
+- **MySQL Synchronization:**
+    - Established real-time data synchronization with MySQL.
+    - Maintained data integrity and consistency across platforms.
 
-Results:
 
-    Successful Data Migration: Achieved continuous, efficient, and reliable data transfer between Snowflake, BigQuery, and MySQL. Enhanced Data Accessibility: Empowered analytics and operations through multiple data platforms. Optimized Performance: Implemented measures for optimal query execution and resource utilization.Enhanced Data Integrity: Ensured data consistency and accuracy throughout the migration process.
+**Results:**
+
+-    Successful Data Migration: Achieved continuous, efficient, and reliable data transfer between Snowflake, BigQuery, and MySQL. Enhanced Data Accessibility: Empowered analytics and operations through multiple data platforms. Optimized Performance: Implemented measures for optimal query execution and resource utilization.Enhanced Data Integrity: Ensured data consistency and accuracy throughout the migration process.
 
 Key Learnings:
 
-    Cross-Platform Integration: Mastered the integration of diverse data platforms for seamless data flow.
+-    Cross-Platform Integration: Mastered the integration of diverse data platforms for seamless data flow.
     Cloud Function Orchestration: Effectively utilized Cloud Functions for efficient data management and automation.
     Error Handling and Re-Execution: Emphasized robust error handling and re-execution mechanisms for continuous data flow.
 
@@ -72,4 +73,4 @@ Key Learnings:
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects!
 
-[![Dipon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipon778&show_icons=true&hide=contribs)](https://github.com/dipon778)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipon778&show_icons=true&hide=contribs)](https://github.com/dipon778)
