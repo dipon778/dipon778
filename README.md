@@ -2,9 +2,10 @@
 
 ## About Me
 
-I'm a passionate DevOps engineer with a focus on automating and streamlining the software development lifecycle. I thrive in dynamic environments and enjoy tackling complex challenges to enhance efficiency and reliability in IT operations.
+Not in good shape with a whole lotta pressure from every other side. Desperately need a vacation. 
+Anyways working as a DevOps engineer for two+ years. 
 
-- 🔭 I’m currently working on GKE for deploying SpringBoot application.
+- 🔭 I’m currently working on GKE for deploying SpringBoot application. Also started terraform again for provisioning. 
 - 🌱 I’m continuously learning and exploring new tools and technologies in the DevOps landscape.
 
 ## Tech Stack
