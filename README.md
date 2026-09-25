@@ -27,9 +27,9 @@ Anyways working as a DevOps engineer for two+ years.
 - **Cloud Platforms:** AWS, Google Cloud
 - **Monitoring & Logging:** Fluent-Bit, Prometheus, Grafana, ELK Stack
 
-### Most Recent Work: Data Mirgation
+### Most Recent Work: Data Migration
 
-Challenge: Facilitating continuous data migration from Snowflake (data lake) to BigQuery (data warehouse) and MySQL.It was quite challenging for me.
+Challenge: Facilitating continuous data migration from Snowflake (data lake) to BigQuery (data warehouse) and MySQL. It was quite challenging for me.
 
 Solution: Leveraging SQL within Snowflake and Cloud Functions for seamless data flow.
 
@@ -61,13 +61,16 @@ Key Technologies:
 
 **Results:**
 
--    Successful Data Migration: Achieved continuous, efficient, and reliable data transfer between Snowflake, BigQuery, and MySQL. Enhanced Data Accessibility: Empowered analytics and operations through multiple data platforms. Optimized Performance: Implemented measures for optimal query execution and resource utilization.Enhanced Data Integrity: Ensured data consistency and accuracy throughout the migration process.
+- **Successful Data Migration:** Achieved continuous, efficient, and reliable data transfer between Snowflake, BigQuery, and MySQL.
+- **Enhanced Data Accessibility:** Empowered analytics and operations through multiple data platforms.
+- **Optimized Performance:** Implemented measures for optimal query execution and resource utilization.
+- **Enhanced Data Integrity:** Ensured data consistency and accuracy throughout the migration process.
 
-Key Learnings:
+**Key Learnings:**
 
--    Cross-Platform Integration: Mastered the integration of diverse data platforms for seamless data flow.
-    Cloud Function Orchestration: Effectively utilized Cloud Functions for efficient data management and automation.
-    Error Handling and Re-Execution: Emphasized robust error handling and re-execution mechanisms for continuous data flow.
+- **Cross-Platform Integration:** Mastered the integration of diverse data platforms for seamless data flow.
+- **Cloud Function Orchestration:** Effectively utilized Cloud Functions for efficient data management and automation.
+- **Error Handling and Re-Execution:** Emphasized robust error handling and re-execution mechanisms for continuous data flow.
 
 ## Connect with Me
 
@@ -76,4 +79,4 @@ Key Learnings:
 Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects!
 <!---
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipon778&show_icons=true&hide=contribs)](https://github.com/dipon778)
----!>
+-->
