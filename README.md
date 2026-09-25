@@ -48,7 +48,7 @@ I build and run cloud infrastructure and internal developer tooling on **AWS** a
 - 🚨 I'm comfortable owning on-call and incident response
 - 🗣️ I explain infrastructure clearly to technical and non-technical people alike
 
-> 📌 **Currently:** running production Kubernetes at Miaki Media and standardizing CI/CD templates and Helm-based deployments across product teams.
+> 📌 **Currently:** running production Kubernetes at Miaki Media and standardizing CI/CD templates  deployments across product teams.
 
 ## 🔁 How I Ship
 
@@ -70,12 +70,12 @@ flowchart LR
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="ELK Stack"/>
@@ -91,7 +91,7 @@ flowchart LR
 ### DevOps Engineer · Miaki Media Ltd, Bangladesh
 *Jan 2025 – Present*
 
-- **Kubernetes platform:** Run production clusters for Dockerized microservices, managing Helm charts, Secrets and resource quotas so multi-tenant product teams get consistent deployments.
+- **Kubernetes platform:** Run production clusters for Dockerized microservices, Secrets and resource quotas so multi-tenant product teams get consistent deployments.
 - **CI/CD with security gates:** Built pipeline-as-code in GitLab CI and GitHub Actions with reusable YAML templates, image and dependency scanning, and multi-stage rollouts, plus shared Jenkins pipelines for several teams.
 - **Observability & on-call:** Set up ELK, Prometheus, Grafana and Zabbix, and tuned symptom-based alerts to cut noise and catch slowdowns before users see an outage.
 
