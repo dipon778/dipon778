@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Dipon Kumer Sarker 👋</h1>
+<h1 align="center">Hi, I'm Dipon 👋</h1>
+
+<p align="center">
+  <i>Pipeline red? Pods in CrashLoopBackOff? Pager won't stop buzzing?</i><br/>
+  Take a breath and <a href="https://dipon778.github.io/just-a-piano/"><b>🎹 play a few keys here</b></a>. The cluster can wait 30 seconds. Probably.
+</p>
 
 <p align="center">
   <b>DevOps Engineer</b> · Kubernetes · Cloud Infrastructure · CI/CD · Observability<br/>
